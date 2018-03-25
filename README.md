@@ -7,9 +7,10 @@ My responsibilities for the project includes:
 • Architect and design backend code to enhance modularity and abstraction
 • Conducted acceptance test using Capybara and Cucumber
 
-Mosaics' functionality comprises:
+Mosaics' functionality comprises of:
 <br/>
 <b>Generating Collage</b>
+<br/>
 ![Alt Text](https://static1.squarespace.com/static/5ab6d471297114ed1fd66734/5ab7084c2b6a28e843f1b2be/5ab715f1352f53812176347c/1521948153071/puppies-gif.gif?format=1000w)
 <br/><br/>
 ![Alt Text](https://static1.squarespace.com/static/5ab6d471297114ed1fd66734/5ab7084c2b6a28e843f1b2be/5ab716f4575d1f493611f09c/1521948414507/cats-gif.gif?format=1000w)
