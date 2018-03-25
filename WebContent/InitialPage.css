@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+	background-color: #d3d3d3;
+	
+}
+#input {
+	border: 2px solid;
+	border-color: #A9A9A9;
+	width: 300px;
+	height: 37px;
+	margin: 0px;
+	text-align: center;
+}
+
+#build-button {
+	background-color: #A9A9A9;
+	color: white;
+	height: 40px;
+	width: 100px;
+	margin: 0px;
+	text-align: center;
+	display: inline-block;
+}
+
+#form-div {
+	height: 260px;
+    width: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    overflow: hidden;
+    display:inline;
+}
+
+.input-div {
+	display:inline-block;
+}
