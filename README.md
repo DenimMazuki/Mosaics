@@ -9,11 +9,11 @@ My responsibilities for the project includes:
 
 Mosaics' functionality comprises:
 <br/>
-Generating Collage
+<b>Generating Collage</b>
 ![Alt Text](https://static1.squarespace.com/static/5ab6d471297114ed1fd66734/5ab7084c2b6a28e843f1b2be/5ab715f1352f53812176347c/1521948153071/puppies-gif.gif?format=1000w)
-<br/>
+<br/><br/>
 ![Alt Text](https://static1.squarespace.com/static/5ab6d471297114ed1fd66734/5ab7084c2b6a28e843f1b2be/5ab716f4575d1f493611f09c/1521948414507/cats-gif.gif?format=1000w)
-<br/>
+<br/><br/>
 Toggling between generated Collage
 <br/>
 ![Alt Text](https://static1.squarespace.com/static/5ab6d471297114ed1fd66734/5ab7084c2b6a28e843f1b2be/5ab71736575d1f493611f7dc/1521948485733/swap-gif.gif?format=1000w)
