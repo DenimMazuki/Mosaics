@@ -3,11 +3,15 @@
 Mosaics is a photo collage generator built using a Java backend alongside a JSP/Html front-end. It is a web application that takes in a search query and generates a collage by gathering 30 images from Qwant API.
 
 My responsibilities for the project includes:
+<br/>
 • Parallelizing image retrieval and download for sources in order to meet runtime requirements
+<br/>
 • Perform image manipulation on the backend to perform collage building
+<br/>
 • Architect and design backend code to enhance modularity and abstraction
+<br/>
 • Conducted acceptance test using Capybara and Cucumber
-
+<br/>
 Mosaics' functionality comprises of:
 <br/><br/>
 <b>Generating Collage</b>
