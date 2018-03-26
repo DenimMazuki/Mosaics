@@ -13,7 +13,7 @@ My responsibilities for the project includes:
 • Conducted acceptance test using Capybara and Cucumber
 <br/>
 
-<h2>Mosaics' functionality comprises of:</h2>
+<h3>Mosaics' functionality comprises of:<h3/>
 <br/><br/>
 <b>Generating Collage</b>
 <br/>
